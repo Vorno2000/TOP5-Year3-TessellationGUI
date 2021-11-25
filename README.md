@@ -1,5 +1,5 @@
 # Overview
-The assignment was comprised of a Bruteforce, Greedy and Exact Approach Methods all with different time complexities. Due to time constraints, I could only complete the Bruteforce and Greedy approach methods which resulted in an average grade.
+The assignment was comprised of a Bruteforce, Greedy and Exact Approach Methods all with different time complexities. Due to time constraints, I could only complete the Bruteforce and Greedy approach methods which resulted in a below average grade.
 
 The application is still reflective of good & useful algorithms. Bruteforce has highest time complexity and Greedy Approach with the least time complexity.
 
